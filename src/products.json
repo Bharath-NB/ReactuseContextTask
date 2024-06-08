@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "iPhone 15pro max",
+      "price": 1199,
+      "stock": 94,
+      "quantity": 1,
+      "thumbnail": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708678829/Croma%20Assets/Communication/Mobiles/Images/300822_0_vy3iid.png",
+      "detailsAndCare": "The iPhone 15 Pro Max display has rounded corners that follows a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 17.00 cm (6.69″) diagonally (actual viewable area is less)."
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "price": 899,
+      "stock": 34,
+      "quantity": 1,
+      "thumbnail": "https://images-cdn.ubuy.co.in/65b523e18b4abb041816eded-pre-owned-apple-iphone-x-64gb-factory.jpg",
+      "detailsAndCare": "The iPhone X display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 5.85 inches diagonally (actual viewable area is less)."
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy S9plus",
+      "price": 1249,
+      "stock": 36,
+      "quantity": 1,
+      "thumbnail": "https://rukminim2.flixcart.com/image/850/1000/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372ujux939qg.jpeg?q=20&crop=false",
+      "detailsAndCare": "Samsung's flagship smartphones, the Galaxy S and Galaxy Note series, play a pivotal role in the company’s ability to dominate global markets. Last year’s Galaxy S8, Galaxy S8+ and Galaxy Note 8 (Review) helped Samsung capture a big chunk of the global market in 2017, passing Apple along the way, and the company hopes to achieve even better results with its 2018 updates. The Galaxy S9 and Galaxy S9+ have been launched."
+    },
+    {
+      "id": 4,
+      "title": "OPPO F19Pro",
+      "price": 280,
+      "stock": 123,
+      "quantity": 1,
+      "thumbnail": "https://images.jdmagicbox.com/quickquotes/images_main/f19-pro-ram-8-gb-256-gb-crystal-silver-270695744-9a5de.png",
+      "detailsAndCare": "A special technology is applied to conceal the proximity sensor on the upper front of OPPO's smartphone for the whole look of simplicity. It may cause abnormality of proximity function if the film or protector covers the proximity sensor area. Refer to OPPO's official layout of protector and film for details."
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "price": 499,
+      "stock": 32,
+      "quantity": 1,
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p30.jpg",
+      "detailsAndCare": "With a rounded corners design on the dewdrop display, the diagonal length of the screen is 6.47 inches when measured according to the standard rectangle (the actual viewable area is slightly smaller)."
+    }
+  ]
+      

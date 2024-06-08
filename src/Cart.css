@@ -1,0 +1,146 @@
+/* Cart.css */
+
+.cart-title {
+    background-color: #333; 
+    color: #fff;
+    padding: 10px; 
+  }
+  
+  .summary {
+    margin-top: 20px;
+  }
+  
+  .subtotal-total,
+  .shipping-total,
+  .total {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .grey-out {
+    font-weight: bold;
+    color: grey;
+  }
+  
+  .subtotal-amount,
+  .shipping-amount {
+    font-weight: bold;
+    color: black;
+  }
+  
+  .free {
+    font-weight: bold;
+    color: orange;
+  }
+  
+  .details-and-care {
+    cursor: pointer;
+  }
+  
+  .details-and-care.truncated {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 250px; 
+  }
+  
+  tbody tr {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
+  tbody td {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tbody td img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .select-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .select-container select {
+    margin-bottom: 5px;
+  }
+  
+  .button-cell {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .remove-button {  
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: rgb(255, 162, 0);
+    border: none;
+  }
+  
+  .remove-button:hover {
+    background-color: #333333;
+  }
+  
+  /* Add this rule to make the price bold */
+  .price {
+    font-weight: bold;
+  }
+  
+  @media (min-width: 768px) {
+    thead {
+      display: table-header-group; 
+    }
+  
+    tbody {
+      display: table-row-group;
+    }
+  
+    tbody tr {
+      display: table-row;
+    }
+  
+    tbody td {
+      display: table-cell;
+      border: none;
+      padding: 10px;
+    }
+  
+    tbody td img {
+      width: 200px;
+      height: 200px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    tbody td img {
+      width: 200px;
+      height: 200px;
+    }
+  }
+  
+  .quantity-price-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .quantity,
+  .price {
+    margin-right: 10px;
+  }
+  
+  .remove-button-cell {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
